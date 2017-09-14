@@ -1,6 +1,6 @@
 # Yii2 REST API + Angular 4 Boilerplate
 
-[![Build Status](https://travis-ci.org/chrisleekr/yii2-angular4-boilerplate.svg?branch=master)](https://travis-ci.org/chrisleekr/yii2-angular4-boilerplate)
+[![Build Status](https://travis-ci.org/pycode-biz/yii2-angular4-boilerplate.svg?branch=master)](https://travis-ci.org/pycode-biz/yii2-angular4-boilerplate)
 
 This is a boilerplate project for future use. The project consists of REST API developed by Yii2 and backend/frontend developed by Angular2 with Core UI.
 
